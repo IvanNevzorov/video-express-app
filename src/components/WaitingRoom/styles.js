@@ -15,6 +15,7 @@ export default makeStyles((theme) => ({
     width: '400px'
     // height: '90%',
   },
+  form:{width:'100%'},
   formControl: {
     width: '100%',
   },
