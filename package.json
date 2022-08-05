@@ -34,7 +34,7 @@
     "nodemon": "^2.0.7"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server/index.js",
     "build": "react-scripts build"
   },
   "homepage": ".",
